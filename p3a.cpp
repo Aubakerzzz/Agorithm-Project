@@ -1,9 +1,3 @@
-/*
-Name: AbuBakar
-Roll Number: 21I-1379
-Section: F/H
-Algorithm's Project
-*/
 
 
 
